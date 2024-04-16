@@ -1,6 +1,6 @@
 ```
-Name: Kavinraja D
-Register Number: 212222240047
+Name: Thiyagarajan A
+Register Number: 212222240110
 ```
 # EXPERIMENT 05 INTERFACING A 4X4 MATRIX KEYPAD AND DISPLAY THE OUTPUT ON LCD
 
